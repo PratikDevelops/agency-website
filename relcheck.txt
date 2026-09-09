@@ -1,0 +1,9 @@
+web-development | status=200 | related=[elder-india,passport-bangalore] | delivSec=1 | pricingPopular=1
+app-development | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+seo | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+graphic-design | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+ui-ux-design | status=200 | related=[elder-india,passport-bangalore] | delivSec=1 | pricingPopular=1
+video-editing | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+ad-marketing | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+social-media-management | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
+automation | status=200 | related=[elder-india,nine-plus-nine-wholesale] | delivSec=1 | pricingPopular=1
