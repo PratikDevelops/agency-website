@@ -5,7 +5,9 @@ import Footer from '@/components/layout/Footer';
 import PricingHero from '@/app/pricing/components/PricingHero';
 import PricingPlans from '@/app/pricing/components/PricingPlans';
 import PricingStack from '@/app/pricing/components/PricingStack';
+import PricingAssurance from '@/app/pricing/components/PricingAssurance';
 import PricingFAQ from '@/app/pricing/components/PricingFAQ';
+import FinalCTA from '@/app/components/FinalCTA';
 
 export const metadata: Metadata = {
   title: 'Pricing - AgencyStudio',
@@ -25,7 +27,9 @@ export default function PricingPage() {
         <PricingHero />
         <PricingPlans />
         <PricingStack />
+        <PricingAssurance />
         <PricingFAQ />
+        <FinalCTA />
       </main>
       <Footer />
     </>

@@ -20,7 +20,7 @@ const plans: Plan[] = [
     name: 'Starter',
     ideal:
       'Focused projects with a clear, single objective - a marketing site, a core landing-page flow or a one-off brand refresh.',
-    price: 'From $4,800',
+    price: 'From ₹60,000',
     deliverables: ['Up to 8 pages', 'Responsive design', 'CMS integration', 'Basic analytics'],
     timeline: '4-6 weeks',
     support: '30-day post-launch',
@@ -29,7 +29,7 @@ const plans: Plan[] = [
     name: 'Growth',
     ideal:
       'Businesses ready to scale their digital presence across web, SEO and design in one engagement.',
-    price: 'From $9,500',
+    price: 'From ₹1,50,000',
     deliverables: [
       'Up to 20 pages',
       'Custom design system',
@@ -45,7 +45,7 @@ const plans: Plan[] = [
     name: 'Enterprise',
     ideal:
       'Complex digital ecosystems - product platforms, multi-market rollouts and teams that need ongoing delivery capacity.',
-    price: 'From $22,000',
+    price: 'From ₹3,50,000',
     deliverables: [
       'Unlimited scope',
       'Full product team',

@@ -16,9 +16,9 @@ export default function ServiceRelatedWork({ projects }: ServiceRelatedWorkProps
   if (!projects.length) return null;
 
   return (
-    <section className="section-ash section-spacing">
+    <section ref={ref} className="section-ash section-spacing">
       <div className="container-page">
-        <div ref={ref} className="reveal flex items-end justify-between gap-6 mb-12 flex-wrap">
+        <div className="reveal flex items-end justify-between gap-6 mb-12 flex-wrap">
           <div>
             <p className="eyebrow mb-4">RELATED WORK</p>
             <h2 className="text-heading-lg text-graphite max-w-lg">

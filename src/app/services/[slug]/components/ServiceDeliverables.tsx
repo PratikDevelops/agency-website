@@ -16,9 +16,9 @@ export default function ServiceDeliverables({ deliverables }: ServiceDeliverable
   const ref = useReveal();
 
   return (
-    <section className="section-ash section-spacing">
+    <section ref={ref} className="section-ash section-spacing">
       <div className="container-page">
-        <div ref={ref} className="reveal mb-12">
+        <div className="reveal mb-12">
           <p className="eyebrow mb-4">WHAT&apos;S INCLUDED</p>
           <h2 className="text-heading-lg text-graphite max-w-xl">
             Everything required to ship the project properly.

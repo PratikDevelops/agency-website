@@ -17,9 +17,9 @@ export default function ServiceProcess({ steps }: ServiceProcessProps) {
   const ref = useReveal();
 
   return (
-    <section className="section-canvas section-spacing">
+    <section ref={ref} className="section-canvas section-spacing">
       <div className="container-page">
-        <div ref={ref} className="reveal mb-14">
+        <div className="reveal mb-14">
           <p className="eyebrow mb-4">THE PROCESS</p>
           <h2 className="text-heading-lg text-graphite max-w-xl">
             How we take your project from brief to launch.

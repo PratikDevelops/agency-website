@@ -10,31 +10,31 @@ const stacks = [
     name: 'Web + SEO',
     description:
       'A site built to rank from day one - design, development and organic strategy in one engagement.',
-    range: 'From $7,200',
+    range: 'From ₹1,20,000',
   },
   {
     name: 'Web + Automation',
     description:
       'Launch the site and automate the operations behind it - lead capture, CRM sync and reporting dashboards.',
-    range: 'From $9,400',
+    range: 'From ₹90,000',
   },
   {
     name: 'Branding + UI/UX',
     description:
       'Identity, product design and a design system that keeps every touchpoint consistent.',
-    range: 'From $8,900',
+    range: 'From ₹75,000',
   },
   {
     name: 'SEO + Content',
     description:
       'Technical foundation, editorial engine and authority building as a single compounding program.',
-    range: 'From $4,800/mo',
+    range: 'From ₹35,000/mo',
   },
   {
     name: 'Paid + Social + Video',
     description:
       'Creative, channels and community in one acquisition engine for launch and beyond.',
-    range: 'From $6,500/mo',
+    range: 'From ₹30,000/mo',
   },
 ];
 

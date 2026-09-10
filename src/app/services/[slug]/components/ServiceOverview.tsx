@@ -14,9 +14,9 @@ export default function ServiceOverview({ intro, whatWeDo }: ServiceOverviewProp
   if (!intro.length && !whatWeDo.length) return null;
 
   return (
-    <section className="section-canvas section-spacing" style={{ paddingTop: '0' }}>
+    <section ref={ref} className="section-canvas section-spacing" style={{ paddingTop: '0' }}>
       <div className="container-page">
-        <div ref={ref} className="reveal mb-14">
+        <div className="reveal mb-14">
           <p className="eyebrow mb-4">OVERVIEW</p>
           <h2 className="text-heading-lg text-graphite max-w-xl">
             Start with the problem, not the deliverable.

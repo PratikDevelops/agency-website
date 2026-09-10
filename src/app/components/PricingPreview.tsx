@@ -7,7 +7,7 @@ const plans = [
   {
     name: 'Starter',
     tagline: 'Focused projects with clear scope.',
-    price: 'From $4,800',
+    price: 'From ₹60,000',
     features: [
       'Up to 8 pages',
       'Responsive design',
@@ -20,7 +20,7 @@ const plans = [
   {
     name: 'Growth',
     tagline: 'For businesses ready to scale their digital presence.',
-    price: 'From $9,500',
+    price: 'From ₹1,50,000',
     features: [
       'Up to 20 pages',
       'Custom design system',
@@ -34,7 +34,7 @@ const plans = [
   {
     name: 'Enterprise',
     tagline: 'Complex digital ecosystems with full team support.',
-    price: 'From $22,000',
+    price: 'From ₹3,50,000',
     features: [
       'Unlimited scope',
       'Full product team',

@@ -169,7 +169,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'Best for focused marketing sites',
-        price: 'From $4,800',
+        price: 'From ₹60,000',
         features: [
           'Up to 8 pages',
           'Responsive design',
@@ -181,7 +181,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Best for growing businesses',
-        price: 'From $9,500',
+        price: 'From ₹1,50,000',
         features: [
           'Up to 20 pages',
           'Custom design system',
@@ -195,7 +195,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Best for complex digital products',
-        price: 'From $22,000',
+        price: 'From ₹3,50,000',
         features: [
           'Unlimited scope',
           'Full product team',
@@ -394,7 +394,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'MVP on one platform',
-        price: 'From $7,500',
+        price: 'From ₹1,20,000',
         features: [
           'Single platform (iOS or Android)',
           'Core user flows',
@@ -407,7 +407,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Polished product on both stores',
-        price: 'From $16,000',
+        price: 'From ₹2,50,000',
         features: [
           'iOS and Android',
           'Custom UI/UX design',
@@ -421,7 +421,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Product team for an app with traction',
-        price: 'From $38,000',
+        price: 'From ₹5,00,000',
         features: [
           'Full product team',
           'Custom architecture',
@@ -621,7 +621,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'Technical foundations, fixed',
-        price: 'From $1,900/mo',
+        price: 'From ₹20,000/mo',
         features: [
           'Technical audit & fixes',
           'On-page optimization',
@@ -632,7 +632,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Foundations plus a content engine',
-        price: 'From $3,500/mo',
+        price: 'From ₹40,000/mo',
         features: [
           'Everything in Essential',
           'Monthly content production',
@@ -644,7 +644,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Full organic growth program',
-        price: 'From $6,500/mo',
+        price: 'From ₹75,000/mo',
         features: [
           'Full SEO program',
           'Multi-market content',
@@ -845,7 +845,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'A sharp identity for a focused brand',
-        price: 'From $3,200',
+        price: 'From ₹45,000',
         features: [
           'Logo system',
           'Core colour & type',
@@ -856,7 +856,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Identity plus the system to run it',
-        price: 'From $6,800',
+        price: 'From ₹90,000',
         features: [
           'Full identity system',
           'Typography & colour systems',
@@ -868,7 +868,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Identity rolled out across touchpoints',
-        price: 'From $12,000',
+        price: 'From ₹1,80,000',
         features: [
           'Complete brand system',
           'Packaging or campaign rollout',
@@ -1068,7 +1068,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'One flow, fixed properly',
-        price: 'From $4,200',
+        price: 'From ₹60,000',
         features: [
           'Targeted user research',
           'Wireframes & flows',
@@ -1079,7 +1079,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'A full surface, tested end to end',
-        price: 'From $9,800',
+        price: 'From ₹1,40,000',
         features: [
           'Research & testing',
           'Complete UX journey',
@@ -1092,7 +1092,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Research plus a living design system',
-        price: 'From $18,000',
+        price: 'From ₹2,60,000',
         features: [
           'Deep research program',
           'Full redesign or new product',
@@ -1290,7 +1290,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'One finished piece, done properly',
-        price: 'From $1,200',
+        price: 'From ₹18,000',
         features: [
           'One edit, one cut',
           'Platform master',
@@ -1301,7 +1301,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'A launch with content to sustain it',
-        price: 'From $2,800',
+        price: 'From ₹40,000',
         features: [
           'Brand film or hero edit',
           'Social pack (3-5 cuts)',
@@ -1313,7 +1313,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Always-on video output',
-        price: 'From $6,500/mo',
+        price: 'From ₹95,000/mo',
         features: [
           'Monthly content volume',
           'Dedicated editor',
@@ -1509,7 +1509,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'One channel, run properly',
-        price: 'From $1,500/mo',
+        price: 'From ₹25,000/mo',
         features: [
           'One channel (search or social)',
           'Campaign setup & management',
@@ -1520,7 +1520,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Search plus social with testing',
-        price: 'From $3,200/mo',
+        price: 'From ₹45,000/mo',
         features: [
           'Search + social',
           'Creative testing program',
@@ -1533,7 +1533,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Full-funnel paid operation',
-        price: 'From $6,000/mo',
+        price: 'From ₹90,000/mo',
         features: [
           'Full-funnel media',
           'In-house creative engine',
@@ -1732,13 +1732,13 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'One channel, run like a publisher',
-        price: 'From $1,200/mo',
+        price: 'From ₹20,000/mo',
         features: ['1 platform', '12 posts / month', 'Community management', 'Monthly reporting'],
       },
       {
         name: 'Growth',
         tagline: 'Multi-platform with video',
-        price: 'From $2,400/mo',
+        price: 'From ₹35,000/mo',
         features: [
           '3 platforms',
           'Posts + stories + reels',
@@ -1751,7 +1751,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Full editorial operation',
-        price: 'From $4,200/mo',
+        price: 'From ₹60,000/mo',
         features: [
           'All platforms that matter',
           'Video & creative production',
@@ -1948,7 +1948,7 @@ export const services: ServiceData[] = [
       {
         name: 'Essential',
         tagline: 'One bottleneck, eliminated',
-        price: 'From $2,500',
+        price: 'From ₹35,000',
         features: [
           'One workflow automated',
           'Core integrations',
@@ -1959,7 +1959,7 @@ export const services: ServiceData[] = [
       {
         name: 'Growth',
         tagline: 'Connected operations, measured',
-        price: 'From $6,000',
+        price: 'From ₹85,000',
         features: [
           'Up to 3 workflows',
           'CRM & tool integrations',
@@ -1972,7 +1972,7 @@ export const services: ServiceData[] = [
       {
         name: 'Scale',
         tagline: 'Standing automation capability',
-        price: 'From $15,000',
+        price: 'From ₹2,00,000',
         features: [
           'Full process audit',
           'Multi-system automation',
